@@ -2,8 +2,8 @@ This project aims to analyze retail sales data to uncover trends, customer behav
 and product performance. The insights generated will help optimize inventory,
 improve marketing strategies, and enhance overall business decision-making.
 
-<B>Tools and Technologies<B>
-Snowflake
-Microsoft Excel
-Powerpoint
-Miro
+<br><B>Tools and Technologies<B></br>
+<br>Snowflake</br>
+<br>Microsoft Excel</br>
+<br>Powerpoint</br>
+<br>Miro</br>
